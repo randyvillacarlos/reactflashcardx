@@ -1496,8 +1496,8 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = reactflashcardx;
-				PROVISIONING_PROFILE = "05291a65-f8ad-499c-a75e-f96c35623c51";
-				PROVISIONING_PROFILE_SPECIFIER = rnFlashCardsDist;
+				PROVISIONING_PROFILE = "4b2a5d59-2ea3-4791-841e-1102d0c785f1";
+				PROVISIONING_PROFILE_SPECIFIER = flashcardprofile;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1525,8 +1525,8 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = reactflashcardx;
-				PROVISIONING_PROFILE = "05291a65-f8ad-499c-a75e-f96c35623c51";
-				PROVISIONING_PROFILE_SPECIFIER = rnFlashCardsDist;
+				PROVISIONING_PROFILE = "4b2a5d59-2ea3-4791-841e-1102d0c785f1";
+				PROVISIONING_PROFILE_SPECIFIER = flashcardprofile;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
